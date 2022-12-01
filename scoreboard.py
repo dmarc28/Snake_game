@@ -8,7 +8,7 @@ class Score(Turtle):
         self.score = 0
         self.color("black")
         self.penup()
-        self.goto(0, 220)
+        self.goto(0, 120)
         self.hideturtle()
 
     def update_score(self):
